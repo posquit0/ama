@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <kbd>[Ask a question](../../issues/new)</kbd> or <kbd>[Read questions](../../issues?q=is%3Aissue+is%3Aclosed)</kbd>
+  <kbd><a href="../../issues/new">Ask a question</a></kbd> <kbd><a href="../../issues?q=is%3Aissue+is%3Aclosed">Read questions</a></kbd>
 </p>
 
 <br />
