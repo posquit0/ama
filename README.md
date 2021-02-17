@@ -27,4 +27,4 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 ## Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [What's an AMA?](https://en.wikipedia.org/wiki/R/IAmA)
